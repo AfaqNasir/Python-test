@@ -1,2 +1,2 @@
-# Pythoon-test
-test the python code and git
+# Python-test
+test the Python code and git
